@@ -1,0 +1,9 @@
+# Maven build output
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Saved record - created while playing
+record.txt
